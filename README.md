@@ -1,6 +1,23 @@
 ### Hi there 👋
 
-🔭 I'm currently working on Despegar.com from along 2013 year.
+:mega: I'm currently working on Despegar.com from along 2013 year.
+
+:trollface: I studied at the UAI (Inter-American Open University) the degree in Computer Technology Management.
+
+:earth_americas: From Buenos Aires, Argentina.
+
+:computer: Passionate about technology, optimizing processes and improving the user experience.
+
+-----
+
+Throughout my career I worked with multiple technologies, such as: Freemarker, Spring, Java, jQuery, Scala, PHP among others.
+
+Lately I am working most of the time with React, Typescript and Node.
+
+Apart from working at Despegar, I do some freelance work on recommendation.
+
+-----
+
 
 If you want to reach out to me, feel free to use any of the following:
 
