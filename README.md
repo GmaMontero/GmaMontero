@@ -18,6 +18,12 @@ Apart from working at Despegar, I do some freelance work on recommendation.
 
 -----
 
+### Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GmaMontero&hide=stars,issues,contribs&show_icons=true&theme=dark&count_private=true)](https://github.com/GmaMontero/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmaMontero&layout=compact&hide=python,php,makefile&theme=dark)](https://github.com/GmaMontero/github-readme-stats)
+
+-----
 
 If you want to reach out to me, feel free to use any of the following:
 
